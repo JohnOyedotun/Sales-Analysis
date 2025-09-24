@@ -24,4 +24,4 @@ Analyze:
 4. Based on region, South America has the lowest sales volume.
 5. Based on region, the highest sales volume of BMW cars model with hybrid fuel type is in Asia.
 6. Insight extracted shows that  BMW 7 series model has the highest sales volume with manual type of transmission.
- Therefore, the company should conduct thorough  market research to know the reasons for low sales of BMW models in some regions.
+ Therefore, the company should conduct thorough  market research to know the reasons for low sales of BMW models in some regions and focus on reducing hihg mileage of cars inorder to create lasting values for the cars through regular maintainance,fuel efficiency,drivers education and vehicle inspection.
